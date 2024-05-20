@@ -1,0 +1,49 @@
+body {
+ font-family: "Open Sans", sans-serif;
+ display:block;
+}
+
+#hero {
+    height: 320px;
+    width: 570px;
+    background-image: url("img/bachata.jpg");
+    background-size: cover;
+    border: 2px solid #020202;
+    display: block;
+    margin:auto;
+}
+
+.btn {
+    background-color: #edb909;
+    padding: 15px 10px 10px 15px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+    border: none;
+}
+
+h2 {
+    color: #020202;
+    font-size: 20px;
+    font-weight:600;
+    margin-left: 30px;
+    margin-right: 270px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    
+}
+
+h1 {
+    color: #1E324A;
+    font-weight:900;
+    font-size: 30px;
+    margin-left: 30px;
+    
+}
+
+.underline {
+    border-bottom: 5px solid #edb909 ;
+}
